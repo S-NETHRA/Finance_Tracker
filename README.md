@@ -1,6 +1,7 @@
 # Personal Finance Tracker
 
 ## Project Overview
+
 A comprehensive Java application for tracking personal finances, managing expenses, and monitoring financial goals. This project demonstrates advanced Object-Oriented Programming concepts, multithreading, collections framework, and JavaFX GUI development.
 
 ## Project Description
